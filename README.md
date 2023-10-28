@@ -1,5 +1,7 @@
 # SingleCell_NGS_Tutorials
 This is the resources and tutorials for SingleCell NGS Tutorials
+GENERAL RESOURCE BIOINFO
+https://liulab-dfci.github.io/bioinfo-combio/scrna1.html
 
 _______________________________________________________________________
 https://www.singlecellcourse.org/index.html
